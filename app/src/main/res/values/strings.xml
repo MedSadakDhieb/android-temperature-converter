@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tp2</string>
+    <string name="dc">°C</string>
+    <string name="df">°F</string>
+    <string name="dfdc">°C->°F</string>
+    <string name="dcdf">°F->°C</string>
+</resources>
